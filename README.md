@@ -1,2 +1,5 @@
 # 1
 Комплексное приложение
+For whom: ordinary people.
+Problems: inconvenient storage and use of a large number of applications for everyday life.
+Solutions: a complex (literally consists of different applications / programs) application (+ synchronization with third-party applications), which will contain tools for various everyday applications. The application includes financial services (diary of expenses and income, financial literacy, debt and investment management, recommendations in budget planning, exchange rates, currency converters, links to stores and others), monitoring of physical and mental indications (sleep tracker, calorie expenditure, nutrition diary, physical activity, workout plan, pulse measurement, tips in maintaining health, meditation, and others), organization of a personal schedule (creation, tracking and management of a schedule, meetings, tasks, reminders), as well as a list of literature with books on personal and work time planning, business creation and management,
