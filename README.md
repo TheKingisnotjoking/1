@@ -13,13 +13,6 @@ To register for the program, you will need a full name (full name or name of the
  <p> The program is designed taking into account the preservation of personal data and confidentiality. It is available in full access to organizations or individuals who have access to the relevant database. Public access to the program is restricted to prevent misuse and misuse of information about car owners. A paid subscription is also provided, expanding access to use (partially or completely removing restrictions).
  <p> The program also provides the following features to the user: a calendar for tracking car control obligations, a chat/forum for communicating with other users, a platform for sale, a map of the area with useful designations for the car owner, a library with legislation and additional materials related to vehicles, as well as a built-in messenger for connecting users and a special function for obtaining contact information on vehicle number. <br/>
  <p> Thus, this program facilitates the process of identifying a person's contacts by the number of his car, providing access to relevant information from the database. It saves the time and effort that was previously required to manually search for the car owner's contacts.<br/>
- <p>Brief structure:<br/>
- <p>1. Calendar<br/>
- <p>2. Chat/Forum<br/>
- <p>3. Shop<br/>
- <p>4. Map<br/>
- <p>5. Library<br/>
- <p> 6. Messenger<br/>
 <p>  The program will consist of the following components:<br/>
 <p>  1. Calendar: Allows users to keep records of car service dates, insurance policies and other important events. Users will be able to add, edit and delete entries to always be aware of their obligations.<br/>
  <p> 2. Chat /forum: It will be an opportunity to discuss issues related to car maintenance, traffic rules, service stations, etc. Users will be able to ask questions, share their knowledge and experience, as well as receive help from other participants. To control the quality of content, a chatbot will be used, which will check user messages. In case of misunderstanding by the bot, the message will be sent to the person for consideration.<br/>
