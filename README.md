@@ -2,7 +2,7 @@
   ## For whom:
   Mainly for vehicle owners.
   ## Problems:
-  The main one is to quickly contact the owner of the transport (for example, children were playing football near the parking lot, as a result they left a dent on one of the cars, a passerby saw it and informed the owner, finding him by the car number), additional ones are the search for timetables of minibuses, buses and trains, search for taxis at a reasonable price and of good quality. 
+  This program combines various car-related functions and provides a wide range of options for car owners. It is designed to simplify and make life easier for motorists by providing them with important and useful tools in one place.
   ## Decision:
 <p>Welcome to our program designed for convenient and efficient organization of your car life. Our program offers various components, each of which is designed to make your life easier and always be one step ahead.<p/>
 <p>The first component is the Calendar, which allows you to plan maintenance dates accordingly before the annual car insurance and other important events. You will be able to easily add, edit and delete entries, so that you will always stay up to date with your obligations.
