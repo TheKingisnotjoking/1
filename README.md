@@ -2,7 +2,7 @@
   ## For whom:
   Mainly for vehicle owners.
   ## Problems:
-  This program combines various car-related functions and provides a wide range of options for car owners. It is designed to simplify and make life easier for motorists by providing them with important and useful tools in one place.
+  a large number of applications that occupy memory, the problem of urgent communication with an unknown car driver.
   ## Decision:
 <p>Welcome to our program designed for convenient and efficient organization of your car life. Our program offers various components, each of which is designed to make your life easier and always be one step ahead.<p/>
 <p>The first component is the Calendar, which allows you to plan maintenance dates accordingly before the annual car insurance and other important events. You will be able to easily add, edit and delete entries, so that you will always stay up to date with your obligations.
